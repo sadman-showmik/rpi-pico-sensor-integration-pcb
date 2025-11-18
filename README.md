@@ -61,7 +61,7 @@ All datasheet links are available in `/docs/datasheet_links.md`.
 
 ---
 
-## 📦 Recommended Files to Include
+## 📦 Files to Include
 
 To complete the repository, include:
 
